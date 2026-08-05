@@ -2,23 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        /* 
-            Desenvolva um sistema bancário simples.
-
-            O programa deve possuir:
-            1 - Consultar saldo
-            2 - Depositar
-            3 - Sacar
-            4 - Sair
-            
-            # Requisitos
-            O sistema deve:
-            - Controlar saldo;
-            - Permitir depósitos;
-            - Permitir saques;
-            - Impedir saque maior que o saldo.
-        */
-
         double saldo = 0;
         int opcao;
 

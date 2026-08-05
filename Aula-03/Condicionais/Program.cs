@@ -32,7 +32,7 @@
 
         if(nota >= 7)
         {
-            Console.WriteLine("Aprovafo");
+            Console.WriteLine("Aprovado");
         }
         else
         {

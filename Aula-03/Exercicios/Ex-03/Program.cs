@@ -2,6 +2,10 @@
 {
     private static void Main(string[] args)
     {
+
+        string nome;
+        Console.Write("Digite o seu nome: ");
+
         Console.Write("Digite a 1ª Nota: ");
         double nota1 = int.Parse(Console.ReadLine());
 

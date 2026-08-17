@@ -1,0 +1,15 @@
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\bin\Debug\net10.0\Pilhas.exe
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\bin\Debug\net10.0\Pilhas.deps.json
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\bin\Debug\net10.0\Pilhas.runtimeconfig.json
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\bin\Debug\net10.0\Pilhas.dll
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\bin\Debug\net10.0\Pilhas.pdb
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.AssemblyInfoInputs.cache
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.AssemblyInfo.cs
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.sourcelink.json
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.dll
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\refint\Pilhas.dll
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.pdb
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\Pilhas.genruntimeconfig.cache
+C:\Users\50428504817\2026-I2DS\Aula-06\Pilhas\obj\Debug\net10.0\ref\Pilhas.dll
